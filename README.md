@@ -1,4 +1,4 @@
-gitkrakern_workshop_version2
+# gitkrakern_workshop_version2
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
